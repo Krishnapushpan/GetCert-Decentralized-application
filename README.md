@@ -1,4 +1,4 @@
-# GetCert - Decentralized Certificate Application
+# GetCert - Decentralized Application
 
 GetCert is a decentralized application that leverages blockchain technology to securely issue and verify certificates. The deployer can easily create and issue certificates, ensuring authenticity and transparency. Users can view and verify their certificates through a secure, tamper-proof interface. Blockchain guarantees that certificates cannot be altered or deleted, preserving their integrity. The system ensures complete trust and transparency with verifiable records accessible to all participants.
 
